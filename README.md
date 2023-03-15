@@ -10,7 +10,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 The "Precious Hocker" stool and side table combination is used as a sitting stool or as a piece of furniture for storage in the living room (laptop, tablet, magazines, drinks, snacks, plants, etc.). In addition, the product serves as an example / showcase of what nowadays can be built locally from recycled materials, thus creating more attention and awareness for sustainable and local production.
 
-![pic](https://md.opensourceecology.de/uploads/4cb7256de2b7c656e84b51f58.png){width=500px} ![](https://md.opensourceecology.de/uploads/4cb7256de2b7c656e84b51f59.png){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg){width=500px} ![](https://md.opensourceecology.de/uploads/4cb7256de2b7c656e84b51f59.png){width=500px}
 
 **Object:**
 
