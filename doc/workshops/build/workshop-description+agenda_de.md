@@ -12,71 +12,110 @@ Bei dem Workshop entsteht ein Würfel-Möbel, das z.B. als Hocker, Beistelltisch
 
 ### Vorbereitung
 
-#### Vorfertigung der Precious Plastic Balken
+**Vorfertigung der Precious Plastic Balken**
+
 Zur Herstellung des upcycling Möbelstücks werden für die Herstellung des Rahmengerüsts Balken aus recyceltem Plastik benötigt. Diese werden durch einen Extruder aus feinem Granulat gefertigt, indem es stark erhitzt, unter Druck gesetzt und in ein Stahl Vierkant-Rohr gepresst wird. Dieser Prozess dauert inkl. Kühlzeit ca. 2 Stunden wobei damit der Rahmen für einen Hocker/ Beistelltisch hergestellt wird.
 
-#### Aussortierte Gerüstbohlen organisieren und trocken lagern
+**Aussortierte Gerüstbohlen organisieren und trocken lagern**
+
 Weiterhin ist Holz der weitere Baustoff, der hier recycelt und verwendet wird. Dafür werden Gerüstbohlen verwendet, welche aufgrund von Arbeitssicherheit aussortiert wurden und nun handverlesen zu uns transportiert und trocken gelagert werden müssen. 
 
 
 ### Folgende Themengebiete werden behandelt:
 
-#### Fertigkeiten vermitteln: Traditionelles und digitales Handwerk
-Traditionelle Holz Handwerksarbeiten:
+**Fertigkeiten vermitteln: Traditionelles und digitales Handwerk**
+
 - Schleifen (Exzenterschleifer, Oberfräse mit Viertelstabfräser)
 - Ölen (Hartwachsöl)
 - Sägen (Tischkreissäge)
-- Verleimen (Holzleim, Klebband, Zwingen)
+- Verleimen (Holzleim, Klebeband, Zwingen)
 - Bohren und Schrauben (Akkuschrauber)
 
-#### Wissen vermitteln: Nachhaltige Materialien und Fertigungstechniken
+**Wissen vermitteln: Nachhaltige Materialien und Fertigungstechniken**
+
 Ein Hauptaugenmerk wird auf der Wissensvermittlung zu den verwendeten Materialien und dem nachhaltigen Produzieren liegen. Der Workshop vermittelt u.a. praktische Einblicke in die technischen Herausforderungen und Möglichkeiten für das Recycling von Plastik und Holz auf dem Weg zur Kreislaufwirtschaft auf globaler und lokaler Ebene.
 
 ### Zielgruppe
 
-#### Vorkenntnisse
+**Vorkenntnisse**
+
 Die Workshops richten sich an Leute jeden Alters, die grundlegendes technisches Verständnis haben. Es werden keine handwerklichen Vorkenntnisse benötigt. Die von den Teilnehmer:innen ausgeführten Arbeitsschritte sind traditionelle Handwerksarbeiten (Schleifen, Ölen, Sägen, Fräsen) und werden von den Workshopleiter:innen beigebracht und gemeinsam durchgeführt.
 
-#### Barrieren
+**Barrieren**
+
 Belastbarkeit: Die Arbeiten werden zum großen Teil stehend ausgeführt
 
 ### Organisation
-Es gibt zwei Trainer für insgesamt 6 Teilnehmende pro Workshop. Je zwei Teilnehmende bauen zusammen eine Box (3 pro Workshop).
-Der Aufbau wird eher Schritt für Schritt gemeinsam durchgeführt. Eventuell wird es parallele Stationen geben.
 
-- max. 6 min 3 Teilnehmer:innen pro Prototyp
-Insgesamt werden 6 Teilnehmende von 2 Workshopleitenden dabei angeleitet 3 Prototypen in einem Workshop herzustellen
+Es gibt 2 Workshopleitende für bis zu 8 Teilnehmende pro Workshop. Je zwei Teilnehmende bauen zusammen einen Hocker. Insgesamt entstehen in einem Workshop mindestens 3 Werkstücke. Der Aufbau wird eher Schritt für Schritt gemeinsam durchgeführt. Eventuell wird es parallele Stationen geben.
+
 
 ### Infrastrukturanforderung an Produktionsort
 
-**Werkzeug**
-- CNC Fräse oder starker Lasercutter (muss 9 mm Multiplex-Platten schneiden können)
-- Lasercutter für Gravierung
-- Manuelle Pick&Place-Maschine
-- Reflow-Ofen
-- Lötstation
-- Bohrmaschine
-- Schraubendreher, Zangen, Seitenschneider
+**Werkzeuge und Maschinen**
+- Tischkreissäge
+- Akkuschrauber
+- Handoberfräse
+- Exzenterschleifer
+- Laptop
+
+**Materialien**
+- Fichtenholz (Gerüstbohlen)
+- Precious Plastic (4,5 kg Flakes pro Hocker)
+- Schrauben
+- Fräsköpfe
+- Bits
+- Schleifpapier
+- Öl
+- Lappen
+- Handschuhe
+- Schutzbrille
+- Ohrschutzhörer
 
 **Raum**
-- Tische für Montage
-- Stühle für 8 Personen
-- Beamer/Fernseher für Präsentation
+- Arbeisttische
+- Stühle
+- Laptop für Präsentation
 
 
 # Workshop Agenda
 
-|Abschnitt | Zeit | Punkt | Name | Notiz |
+Tag 1, Mittwoch, Holz
+
+16:00	Check-In, Kaffee
+16:30	Schneiden, Gehrung
+17:00	Lamello, Innenseite schleifen
+18:30	Verleimen
+19:00	Verputzen/ Kanten brechen 
+Außenseite schleifen
+19:30	Ölen
+20:00	Ende
+
+Tag 2, Donnerstag, Plastik
+
+16:00	Check-In, Kaffee
+16:30	Verbindungen vorbereiten
+17:00	Gestell zusammenbauen
+18:00	Pause
+18:30	Nachhaltiger Möbelbau 
+20:00	Ende
+
+
+
+
+|Abschnitt | Zeit | Punkt | Personen | Notiz |
 |-----| -------- | -------- | ---- | -------- |
 |**Tag 1** | 10.00 Uhr    | **Ankommen**     |  gemeinsam | Ort kennenlernen|
-| Einführung | 10.30 Uhr  | **Vorstellung - Fab City Hamburg und Open Source Hardware**   | Michel | - Vorstellungsrunde <br>- Was ist Fab City<br>- Was ist ein Fab Lab<br>- Was ist Open Source Hardware? |
-| Einführung | 11.00 Uhr     | **Vorstellung - Libre Solar Projekt** | Martin | - Was sind kleinskalierte Stromnetze? <br>-Welche Hardware Komponenten sind notwendig?<br>- Was ist das Libre Solar Projekt?  |
-| Workshop Vorbereitung | 11.30 Uhr     | **Workshop Material und Ablauf** | gemeinsam | - Sicherheitshinweis<br>- Solarbox Materialien kennenlernen<br>- Gitlab kennenlernen <br>- Schrittanleitung kennenlernen |
-| **PAUSE** | **12.00 Uhr**     | **MITTAGESSEN** | **gemeinsam** |  |
-| Workshop - Fertigung | 13.00 Uhr     | **vom digitalen Design zur digitalen Frabrikation <br>(CAD -> CAM)** | gemeinsam | - Wie muss die CAD Datei aufbereitet werden?<br>- Welche Konfigurationsschritte sind notwendig? |
-| Workshop - Fertigung | 13.30 Uhr     | **Bearbeitung der Holzplatten** | Gruppen | - Gruppe 1: CNC-Fräse mit Martin <br>- Gruppe 2: Lasercutter + Bohren mit Michel |
-| Workshop - Fertigung | 14.30 Uhr     | **Bearbeitung der Holzplatten** | Gruppen | - Gruppe 1: Lasercutter + Bohren mit Michel <br>- CNC-Fräse mit Martin |
-| Workshop - Nachbereitung | 15.30 Uhr | **Arbeitsplätze aufräumen und Feedbak / Austausch** | gemeinsam |  |
+| Einführung | 10.30 Uhr  | **Vorstellung - Fab City Hamburg und Open Source Hardware**   | Workshopleitende | - Vorstellungsrunde <br>- Was ist Fab City<br>- Was ist ein Fab Lab<br>- Was ist Open Source Hardware? |
+| Einführung | 10.45 Uhr     | **Vorstellung - Upcyling Möbel Projekt** | Workshopleitende | Einblicke in die konkreten technischen Herausforderungen und Möglichkeiten für das Recycling von Plastik und Holz auf dem Weg zur Kreislaufwirtschaft auf globaler und lokaler Ebene  |
+| Workshop Vorbereitung | 11.00 Uhr     | **Workshop Material und Ablauf** | gemeinsam | - Sicherheitshinweis<br>- Materialien kennenlernen<br>- Arbeitsschritte kennenlernen |
+| Workshop - Fertigung | 11.15 Uhr     | **Sägen: Zuschnitt und Gehrung** | Gruppen | Die Metallenden werden von den Gerüstbohlen abgeschnitten. Danach werden die Bohlen auf Maß geschnitten und an der Stoßkante mit einer 45° Gehrung versehen. |
+| Workshop - Fertigung | 12.15 Uhr     | **Verbindung vorbereiten: Fräsen und Schleifen ** | Gruppen | Die Bohlen werden ausgerichtet und angezeichnet. Mit dem Lamellofräser werden am Gehrungsschnitt Nuten für die Lamellos gefräst. Diese dienen beim Verleimen dazu, dass die zwei Bohlen in Position bleiben und beim festzwingen nicht verrutschen. Bevor die Bohlen verleimt werden, schleifen wir die Innenseite, da es im Nachhinein schwieriger ist im Winkel zu schleifen.  |
+| **PAUSE** | **13.00 Uhr**     | **MITTAGESSEN** | **gemeinsam** |  |
+| Workshop - Fertigung | 14.00 Uhr     | **Verleimen* | Gruppen | Der Leim wird an den Gehrungsschnitt mit den Lamellos aufgetragen. Zügig wird dann Klebeband positioniert und fest gezogen, damit die Bohlen bestmöglich aneinander haften. Überflüssiger Leim wird mit einem feuchten Tuch weggewischt. |
+| Workshop - Fertigung | 15.00 Uhr     | **Verputzen / Kanten brechen** | Gruppen | Nachdem der Leim getrocknet ist und die Zwingen gelöst wurden, werden die Kanten der Bohle gebrochen und Überstände ausgebessert. Das bedeutet, dass die Kanten rundherum bündig geschliffen werden. |
+| Workshop - Fertigung | 15.30 Uhr     | **Schleifen und Ölen** | Gruppen | Darauf werden alle weiteren Holzflächen mit 180er Schleifpapier gleichmäßig geschliffen. Nach dem Schleifen wird das Holz von allen Seiten mit Hartwachs Öl, Pinsel und einem Tuch behandelt und zum Trocknen mindestens 12 Stunden gut belüftet liegen gelassen.
+| Workshop - Nachbereitung | 16.00 Uhr | **Arbeitsplätze aufräumen und Feedbak / Austausch** | gemeinsam |  |
 
 ---
 
