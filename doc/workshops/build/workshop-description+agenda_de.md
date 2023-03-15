@@ -105,14 +105,14 @@ Tag 2, Donnerstag, Plastik
 
 |Abschnitt | Zeit | Punkt | Personen | Notiz |
 |-----| -------- | -------- | ---- | -------- |
-|**Tag 1** | 10.00 Uhr    | **Ankommen**     |  gemeinsam | Ort kennenlernen|
+|`TAG 1` | 10.00 Uhr    | **Ankommen**     |  gemeinsam | Ort kennenlernen|
 | Einführung | 10.30 Uhr  | **Vorstellung - Fab City Hamburg und Open Source Hardware**   | Workshopleitende | - Vorstellungsrunde <br>- Was ist Fab City<br>- Was ist ein Fab Lab<br>- Was ist Open Source Hardware? |
 | Einführung | 10.45 Uhr     | **Vorstellung - Upcyling Möbel Projekt** | Workshopleitende | Einblicke in die konkreten technischen Herausforderungen und Möglichkeiten für das Recycling von Plastik und Holz auf dem Weg zur Kreislaufwirtschaft auf globaler und lokaler Ebene  |
 | Workshop Vorbereitung | 11.00 Uhr     | **Workshop Material und Ablauf** | gemeinsam | - Sicherheitshinweis<br>- Materialien kennenlernen<br>- Arbeitsschritte kennenlernen |
 | Workshop - Fertigung | 11.15 Uhr     | **Sägen: Zuschnitt und Gehrung** | Gruppen | Die Metallenden werden von den Gerüstbohlen abgeschnitten. Danach werden die Bohlen auf Maß geschnitten und an der Stoßkante mit einer 45° Gehrung versehen. |
-| Workshop - Fertigung | 12.15 Uhr     | **Verbindung vorbereiten: Fräsen und Schleifen ** | Gruppen | Die Bohlen werden ausgerichtet und angezeichnet. Mit dem Lamellofräser werden am Gehrungsschnitt Nuten für die Lamellos gefräst. Diese dienen beim Verleimen dazu, dass die zwei Bohlen in Position bleiben und beim festzwingen nicht verrutschen. Bevor die Bohlen verleimt werden, schleifen wir die Innenseite, da es im Nachhinein schwieriger ist im Winkel zu schleifen.  |
-| **PAUSE** | **13.00 Uhr**     | **MITTAGESSEN** | **gemeinsam** |  |
-| Workshop - Fertigung | 14.00 Uhr     | **Verleimen* | Gruppen | Der Leim wird an den Gehrungsschnitt mit den Lamellos aufgetragen. Zügig wird dann Klebeband positioniert und fest gezogen, damit die Bohlen bestmöglich aneinander haften. Überflüssiger Leim wird mit einem feuchten Tuch weggewischt. |
+| Workshop - Fertigung | 12.15 Uhr     | **Verbindung vorbereiten: Fräsen und Schleifen** | Gruppen | Die Bohlen werden ausgerichtet und angezeichnet. Mit dem Lamellofräser werden am Gehrungsschnitt Nuten für die Lamellos gefräst. Diese dienen beim Verleimen dazu, dass die zwei Bohlen in Position bleiben und beim festzwingen nicht verrutschen. Bevor die Bohlen verleimt werden, schleifen wir die Innenseite, da es im Nachhinein schwieriger ist im Winkel zu schleifen.  |
+| `PAUSE` | 13.00 Uhr     | Mittagessen | gemeinsam |  |
+| Workshop - Fertigung | 14.00 Uhr     | **Verleimen** | Gruppen | Der Leim wird an den Gehrungsschnitt mit den Lamellos aufgetragen. Zügig wird dann Klebeband positioniert und fest gezogen, damit die Bohlen bestmöglich aneinander haften. Überflüssiger Leim wird mit einem feuchten Tuch weggewischt. |
 | Workshop - Fertigung | 15.00 Uhr     | **Verputzen / Kanten brechen** | Gruppen | Nachdem der Leim getrocknet ist und die Zwingen gelöst wurden, werden die Kanten der Bohle gebrochen und Überstände ausgebessert. Das bedeutet, dass die Kanten rundherum bündig geschliffen werden. |
 | Workshop - Fertigung | 15.30 Uhr     | **Schleifen und Ölen** | Gruppen | Darauf werden alle weiteren Holzflächen mit 180er Schleifpapier gleichmäßig geschliffen. Nach dem Schleifen wird das Holz von allen Seiten mit Hartwachs Öl, Pinsel und einem Tuch behandelt und zum Trocknen mindestens 12 Stunden gut belüftet liegen gelassen.
 | Workshop - Nachbereitung | 16.00 Uhr | **Arbeitsplätze aufräumen und Feedbak / Austausch** | gemeinsam |  |
