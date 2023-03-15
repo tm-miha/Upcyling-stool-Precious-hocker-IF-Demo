@@ -3,6 +3,7 @@ SPDX-FileCopyrightText: regenholz <mail@regenholz.de>
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
+# Workshop Upcycling Möbel
 
 ## Build Workshop
 
@@ -80,29 +81,6 @@ Es gibt 2 Workshopleitende für bis zu 8 Teilnehmende pro Workshop. Je zwei Teil
 
 
 # Workshop Agenda
-
-Tag 1, Mittwoch, Holz
-
-16:00	Check-In, Kaffee
-16:30	Schneiden, Gehrung
-17:00	Lamello, Innenseite schleifen
-18:30	Verleimen
-19:00	Verputzen/ Kanten brechen 
-Außenseite schleifen
-19:30	Ölen
-20:00	Ende
-
-Tag 2, Donnerstag, Plastik
-
-16:00	Check-In, Kaffee
-16:30	Verbindungen vorbereiten
-17:00	Gestell zusammenbauen
-18:00	Pause
-18:30	Nachhaltiger Möbelbau 
-20:00	Ende
-
-Rundstab-Verbindungen bohren
-
 
 
 |Abschnitt | Zeit | Punkt | Personen | Notiz |
