@@ -65,6 +65,7 @@ Es gibt 2 Workshopleitende für bis zu 8 Teilnehmende pro Workshop. Je zwei Teil
 - Schrauben
 - Fräsköpfe
 - Bits
+- Forstnerbohrer (? mm Durchmesser)
 - Schleifpapier
 - Öl
 - Lappen
@@ -100,34 +101,34 @@ Tag 2, Donnerstag, Plastik
 18:30	Nachhaltiger Möbelbau 
 20:00	Ende
 
+Rundstab-Verbindungen bohren
 
 
 
 |Abschnitt | Zeit | Punkt | Personen | Notiz |
 |-----| -------- | -------- | ---- | -------- |
-|`TAG 1` | 10.00 Uhr    | **Ankommen**     |  gemeinsam | Ort kennenlernen|
-| Einführung | 10.30 Uhr  | **Vorstellung - Fab City Hamburg und Open Source Hardware**   | Workshopleitende | - Vorstellungsrunde <br>- Was ist Fab City<br>- Was ist ein Fab Lab<br>- Was ist Open Source Hardware? |
-| Einführung | 10.45 Uhr     | **Vorstellung - Upcyling Möbel Projekt** | Workshopleitende | Einblicke in die konkreten technischen Herausforderungen und Möglichkeiten für das Recycling von Plastik und Holz auf dem Weg zur Kreislaufwirtschaft auf globaler und lokaler Ebene  |
-| Workshop Vorbereitung | 11.00 Uhr     | **Workshop Material und Ablauf** | gemeinsam | - Sicherheitshinweis<br>- Materialien kennenlernen<br>- Arbeitsschritte kennenlernen |
-| Workshop - Fertigung | 11.15 Uhr     | **Sägen: Zuschnitt und Gehrung** | Gruppen | Die Metallenden werden von den Gerüstbohlen abgeschnitten. Danach werden die Bohlen auf Maß geschnitten und an der Stoßkante mit einer 45° Gehrung versehen. |
-| Workshop - Fertigung | 12.15 Uhr     | **Verbindung vorbereiten: Fräsen und Schleifen** | Gruppen | Die Bohlen werden ausgerichtet und angezeichnet. Mit dem Lamellofräser werden am Gehrungsschnitt Nuten für die Lamellos gefräst. Diese dienen beim Verleimen dazu, dass die zwei Bohlen in Position bleiben und beim festzwingen nicht verrutschen. Bevor die Bohlen verleimt werden, schleifen wir die Innenseite, da es im Nachhinein schwieriger ist im Winkel zu schleifen.  |
-| `PAUSE` | 13.00 Uhr     | Mittagessen | gemeinsam |  |
-| Workshop - Fertigung | 14.00 Uhr     | **Verleimen** | Gruppen | Der Leim wird an den Gehrungsschnitt mit den Lamellos aufgetragen. Zügig wird dann Klebeband positioniert und fest gezogen, damit die Bohlen bestmöglich aneinander haften. Überflüssiger Leim wird mit einem feuchten Tuch weggewischt. |
-| Workshop - Fertigung | 15.00 Uhr     | **Verputzen / Kanten brechen** | Gruppen | Nachdem der Leim getrocknet ist und die Zwingen gelöst wurden, werden die Kanten der Bohle gebrochen und Überstände ausgebessert. Das bedeutet, dass die Kanten rundherum bündig geschliffen werden. |
-| Workshop - Fertigung | 15.30 Uhr     | **Schleifen und Ölen** | Gruppen | Darauf werden alle weiteren Holzflächen mit 180er Schleifpapier gleichmäßig geschliffen. Nach dem Schleifen wird das Holz von allen Seiten mit Hartwachs Öl, Pinsel und einem Tuch behandelt und zum Trocknen mindestens 12 Stunden gut belüftet liegen gelassen.
-| Workshop - Nachbereitung | 16.00 Uhr | **Arbeitsplätze aufräumen und Feedbak / Austausch** | gemeinsam |  |
+|`TAG 1` | 10:00    | **Ankommen**     |  gemeinsam | Ort kennenlernen|
+| Einführung | 10:30  | **Vorstellung - Fab City Hamburg und Open Source Hardware**   | Workshopleitende | - Vorstellungsrunde <br>- Was ist Fab City<br>- Was ist ein Fab Lab<br>- Was ist Open Source Hardware? |
+| Einführung | 10:45     | **Vorstellung - Upcyling Möbel Projekt** | Workshopleitende | Einblicke in die konkreten technischen Herausforderungen und Möglichkeiten für das Recycling von Plastik und Holz auf dem Weg zur Kreislaufwirtschaft auf globaler und lokaler Ebene  |
+| Workshop Vorbereitung | 11:00     | **Workshop Material und Ablauf** | gemeinsam | - Sicherheitshinweis<br>- Materialien kennenlernen<br>- Arbeitsschritte kennenlernen |
+| Workshop - Fertigung | 11:15     | **Sägen: Zuschnitt und Gehrung** | Gruppen | Die Metallenden werden von den Gerüstbohlen abgeschnitten. Danach werden die Bohlen auf Maß geschnitten und an der Stoßkante mit einer 45° Gehrung versehen. |
+| Workshop - Fertigung | 12:15     | **Verbindung vorbereiten: Fräsen und Schleifen** | Gruppen | Die Bohlen werden ausgerichtet und angezeichnet. Mit dem Lamellofräser werden am Gehrungsschnitt Nuten für die Lamellos gefräst. Diese dienen beim Verleimen dazu, dass die zwei Bohlen in Position bleiben und beim festzwingen nicht verrutschen. Bevor die Bohlen verleimt werden, schleifen wir die Innenseite, da es im Nachhinein schwieriger ist im Winkel zu schleifen.  |
+| `PAUSE` | 13:00     | **Mittagessen** | gemeinsam |  |
+| Workshop - Fertigung | 14:00     | **Verleimen** | Gruppen | Der Leim wird an den Gehrungsschnitt mit den Lamellos aufgetragen. Zügig wird dann Klebeband positioniert und fest gezogen, damit die Bohlen bestmöglich aneinander haften. Überflüssiger Leim wird mit einem feuchten Tuch weggewischt. |
+| Workshop - Fertigung | 15:00     | **Verputzen / Kanten brechen** | Gruppen | Nachdem der Leim getrocknet ist und die Zwingen gelöst wurden, werden die Kanten der Bohle gebrochen und Überstände ausgebessert. Das bedeutet, dass die Kanten rundherum bündig geschliffen werden. |
+| Workshop - Fertigung | 15:30     | **Schleifen und Ölen** | Gruppen | Darauf werden alle weiteren Holzflächen mit 180er Schleifpapier gleichmäßig geschliffen. Nach dem Schleifen wird das Holz von allen Seiten mit Hartwachs Öl, Pinsel und einem Tuch behandelt und zum Trocknen mindestens 12 Stunden gut belüftet liegen gelassen.
+| Workshop - Nachbereitung | 16:00 | **Arbeitsplätze aufräumen und Feedbak / Austausch** | gemeinsam |  |
 
 ---
 
-|Abschnitt | Zeit | Punkt | Name | Notiz |
+|Abschnitt | Zeit | Punkt | Personen | Notiz |
 |-----| -------- | -------- | ---- | -------- |
-| **Tag 2** | 10.00 Uhr  | **Tag 1 Review** | gemeinsam | - offene Fragen beantworten <br>- Vorbereiten Tag 2|
-| Workshop - Elektronik Fertigung | 10.30 Uhr  | **SMD Löten und Kabelkonfektionierung** | Gruppen | - Gruppe 1: SMD Löten mit Martin <br>- Gruppe 2: Kabelkonfektionierung mit Michel|
-| Workshop - Elektronik Fertigung | 11.15 Uhr  | **SMD Löten und Kablekonfektionierung** | Gruppen | - Gruppe 1: Kabelkonfektionierung mit Michel <br>- Gruppe 2: SMD Löten mit Martin|
-| **PAUSE** | **12.00 Uhr**     | **MITTAGESSEN** | **gemeinsam** |  |
-| Workshop - Montage | 13.00 Uhr  | **Zusammenbau Phase 1** | Gruppen | 3 Gruppen jeweils |
-| Workshop - Verdrahten | 14.00 Uhr  | **Verdrahten der elektrischen Bauteile** | Gruppen | 3 Gruppen jeweils |
-| Workshop - Montage | 14.30 Uhr  | **Finaler Zusammenbau Phase 2** | Gruppen | 3 Gruppen jeweils |
-| Workshop - Testing | 15.30 Uhr  | **Testen und Troubleshooting** | Gruppen | 3 Gruppen jeweils |
-| Workshop Nachbereitung | 16.00 Uhr  | **Arbeitsplätze aufräumen und Feedback / Austausch** | gemeinsam | Austausch, Gedanken und Impressionen |
+| `TAG 2` | 10:00  | **Ankommen + Review Tag 1** | gemeinsam | - offene Fragen beantworten <br>- Vorbereiten Tag 2|
+| Workshop - Fertigung | 10:30  | **Rundstab- und Schraubenlöcher bohren** | Gruppen | Mit einem Forstnerbohrer werden mittig in den Verbindungen Löcher für die Holzrundstäbe gebohrt. An den Balken, die später an das Holz gebohrt werden, werden die Löcher für die Schrauben vorgebohrt. |
+| Workshop - Fertigung | 11:15  | **Rundstäbe sägen** | Gruppen | Die Rundstäbe werden auf die Balkenstärke zugesägt.|
+| Workshop - Montage | 12:00  | **Teile verbinden** | Gruppen | Die Balken werden über die Schlitz- und Zapfenverbindungen ineinander gesteckt. In die vorgebohrten Löcher werden die Rundstäbe eingesetzt. Das fertige Gestell wird mit dem verleimten Holz ausgerichtet und über die Schrauben verbunden. |
+| `PAUSE` | 13:00     | **Mittagessen** | gemeinsam |  |
+| Workshop - Testing | 14:00  | **Hocker testen** | gemeinsam | Belasten, drehen, wenden etc. |
+| Workshop - Wissensvermittlung | 14:30  | **Präsentation und Diskussion** | gemeinsam | - Kreislauffähige Möbelproduktion<br>- Holz Recycling<br>- Holz Zertifizierung<br>- Kunststoffarten und Nutzungsdauer<br>- Precious Plastic Universum |
+| Workshop Nachbereitung | 15:00  | **Arbeitsplätze aufräumen und Feedback / Austausch** | gemeinsam | Austausch, Gedanken und Impressionen |
 
