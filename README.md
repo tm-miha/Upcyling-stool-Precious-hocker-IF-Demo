@@ -1,60 +1,38 @@
 <!--
-SPDX-FileCopyrightText: 2023 regenholz Gbr <mail@regenholz.de>
+SPDX-FileCopyrightText: regenholz <mail@regenholz.de>
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# Upcycling stool and side table funiture
+# Upcycling stool and side table furniture "Precious Hocker"
 
-## Furniture building instructions
+## Precious Hocker - Hardware Description
 
-...
-...
-...
+The "Precious Hocker" stool and side table combination is used as a sitting stool or as a piece of furniture for storage in the living room (laptop, tablet, magazines, drinks, snacks, plants, etc.). In addition, the product serves as an example / showcase of what nowadays can be built locally from recycled materials, thus creating more attention and awareness for sustainable and local production.
 
-[![License: CC BY-SA 4.0](
-https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](
-https://creativecommons.org/licenses/by-sa/4.0/)
-[![REUSE status](
-https://api.reuse.software/badge/gitlab.com/OSEGermany/ohloom)](
-https://api.reuse.software/info/gitlab.com/OSEGermany/ohloom)
-[![made-with-Markdown](
-https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](
-http://commonmark.org)
-[![made-with-OpenSCAD](
-https://img.shields.io/badge/Made%20with-OpenSCAD-orange.svg)](
-http://openscad.org/)
+![pic](https://md.opensourceecology.de/uploads/4cb7256de2b7c656e84b51f58.png){width=500px} ![](https://md.opensourceecology.de/uploads/4cb7256de2b7c656e84b51f59.png){width=500px}
 
-**O**pen **H**ardware **Loom**
-(GER: Webstuhl)
+**Object:**
 
-You may want to see [the original project Wiki](
-https://wiki.opensourceecology.de/Open_Hardware-Webstuhl_%E2%80%93_OHLOOM),
-though this repo practically makes the Wiki version obsolete,
-as it contains improvements,
-and further development will happen here.
+- Dimensions approx. 550x350x450 mm
+- Weight approx. ??? kg
+- 
 
-## Guides
+## Key Ressources
 
-| [User Guide][UserGuideEn] | [Assembly Guide][AssemblyGuideEn] |
-| :----: | :----: |
-| [![][UserGuideImg]][UserGuideEn] | [![][AssemblyGuideImg]][AssemblyGuideEn] |
-| [ENG][UserGuideEn] / [GER][UserGuideDe] | [ENG][AssemblyGuideEn] / [GER][AssemblyGuideDe] |
+- [BOM file](bom.csv)
+- Designs files (CAD)
+     - [Mechanical (MCAD)](src/mech)
+     - [Electrical (ECAD)](/src/elec/)
+- [Manufacturing Documentation](/doc/manuf/)
+- Build Workshop Documentation
+     - [Workshop Description](doc/workshops/build/workshop-description+agenda_de.md)
+     - [Step-by-Step-Guide](doc/workshops/build/step-by-step_build-guideline.md)
 
-[UserGuideImg]: Documentation/User_Guide/User_Guide.jpg
-[UserGuideEn]: Documentation/User_Guide/UserGuide.md
-[UserGuideDe]: Documentation/User_Guide/UserGuide_de.md
-[AssemblyGuideImg]: Documentation/Assembly_Guide/Assembly_Guide.jpg
-[AssemblyGuideEn]: Documentation/Assembly_Guide/AssemblyGuide.md
-[AssemblyGuideDe]: Documentation/Assembly_Guide/AssemblyGuide_de.md
+## License
 
-## Plans for the Parts
+Hardware design, CAD and PCB files, BOM, settings and other technical or design files are released under the following license:
+- CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-W](/LICENSES/LICENSE_CERN_OHL_W_V2.txt)**
 
-The 3D plans for the parts of the loom
-are available as source files in the OpenSCAD format.
-Alongside you will find read-only versions as generated STL files
-and sometimes technical drawings as PDFs.
-
-You will find all these in this repository in the folders
-[3DParts/](./3DParts/) and
-[WoodParts/](./WoodParts/).
+Assembly manual, pictures, videos, presentations, description text and other type of media are released under the following license:
+- Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](/LICENSES/LICENSE_CC_BY_SA_4.0.txt)**
