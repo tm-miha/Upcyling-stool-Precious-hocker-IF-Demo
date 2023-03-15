@@ -1,6 +1,5 @@
 <!--
-SPDX-FileCopyrightText: Martin Jäger <martin@libre.solar>
-SPDX-FileCopyrightText: Michel Langhammer <michel@libre.solar>
+SPDX-FileCopyrightText: regenholz <mail@regenholz.de>
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
