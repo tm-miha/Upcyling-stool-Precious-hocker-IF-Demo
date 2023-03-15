@@ -32,19 +32,13 @@ Traditionelle Holz Handwerksarbeiten:
 #### Wissen vermitteln: Nachhaltige Materialien und Fertigungstechniken
 Ein Hauptaugenmerk wird auf der Wissensvermittlung zu den verwendeten Materialien und dem nachhaltigen Produzieren liegen. Der Workshop vermittelt u.a. praktische Einblicke in die technischen Herausforderungen und Möglichkeiten für das Recycling von Plastik und Holz auf dem Weg zur Kreislaufwirtschaft auf globaler und lokaler Ebene.
 
-
-- Einführung in Open Source Hardware
-- Grundlagen von Photovoltaik-Modulen, Solar-Ladereglern und Batterien
-- Entwicklung und Produktion von Elektronik
-- Einführung in CAD/CAM Prozess für digitale Fertigung
-- CNC-Fräsen
-- Lasercutten
-- Zusammenbau der einzelnen Komponenten zu einem funktionsfähigen Gesamtsystem (Solarbox)
-
 ### Zielgruppe
-Die Workshops richten sich an Leute jeden Alters, die grundlegendes technisches Verständnis haben, aber nicht notwendigerweise ein Studium o.ä. in dem Bereich absolviert haben.
-Falls sich einige Leute mit viel Vorwissen im Bereich Elektronik, Programmierung oder digitaler Fertigungsverfahren finden, könnte ein Workshop für die „Experten“ angeboten werden, wo statt auf die Grundlagen mehr auf die technischen Details eingegangen wird. Für das Train-the-Trainer Format sollten „Experten“ angesprochen werden.
 
+#### Vorkenntnisse
+Die Workshops richten sich an Leute jeden Alters, die grundlegendes technisches Verständnis haben. Es werden keine handwerklichen Vorkenntnisse benötigt. Die von den Teilnehmer:innen ausgeführten Arbeitsschritte sind traditionelle Handwerksarbeiten (Schleifen, Ölen, Sägen, Fräsen) und werden von den Workshopleiter:innen beigebracht und gemeinsam durchgeführt.
+
+#### Barrieren
+Belastbarkeit: Die Arbeiten werden zum großen Teil stehend ausgeführt
 
 ### Organisation
 Es gibt zwei Trainer für insgesamt 6 Teilnehmende pro Workshop. Je zwei Teilnehmende bauen zusammen eine Box (3 pro Workshop).
