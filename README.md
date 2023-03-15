@@ -8,7 +8,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ## Precious Hocker - Hardware Description
 
-The "Precious Hocker" stool and side table combination is used as a sitting stool or as a piece of furniture for storage in the living room (laptop, tablet, magazines, drinks, snacks, plants, etc.). In addition, the product serves as an example / showcase of what nowadays can be built locally from recycled materials, thus creating more attention and awareness for sustainable and local production.
+The "Precious Hocker" is an upcycling product used as a sitting stool or as a piece of furniture for storage in the living room (laptop, tablet, magazines, drinks, snacks, plants, etc.). The wood comes from discarded spruce planks from scaffolding construction, the plastic frame is cast from plastic waste (shredded plastic lids).
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg){width=500px} ![](res/assets/media/img/regenholz_precious-hocker_rotation_800x800.gif){width=500px}
 
@@ -21,9 +21,6 @@ The "Precious Hocker" stool and side table combination is used as a sitting stoo
 ## Key Ressources
 
 - [BOM file](bom.csv)
-- Designs files (CAD)
-     - [Mechanical (MCAD)](src/mech)
-     - [Electrical (ECAD)](/src/elec/)
 - [Manufacturing Documentation](/doc/manuf/)
 - Build Workshop Documentation
      - [Workshop Description](doc/workshops/build/workshop-description+agenda_de.md)
