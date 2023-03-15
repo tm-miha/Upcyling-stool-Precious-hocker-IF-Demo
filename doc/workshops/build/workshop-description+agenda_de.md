@@ -3,9 +3,9 @@ SPDX-FileCopyrightText: regenholz <mail@regenholz.de>
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
-# Workshop Upcycling Möbel
+# Workshop Inhalte
 
-## Build Workshop
+## Build Workshop Upcycling Möbel
 
 ### Ziel
 
