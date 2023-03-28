@@ -1,10 +1,17 @@
-# Dimension Drawing `src/mech/`
+# Vermaßung
 
-Mechanical "blueprints" - Computer Aided Design (CAD) files
+Die Dimensionen des Hockers lassen sich je nach Material und Stärke variieren.
 
-## Dimensions wood planks
+## Vermaßung Objekt
 ...
 
-## Dimensions plastic beams
+## Vermaßung Holzbohlen Zuschnitte
 ...
+
+## Vermaßung Plasktikbalken Zuschnitte
+...
+
+## Vermaßung Rundstäbe
+...
+
 
