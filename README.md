@@ -21,6 +21,7 @@ The "Precious Hocker" is an upcycling product used as a sitting stool or as a pi
 ## Key Ressources
 
 - [BOM file](bom.csv)
+- [Dimensions](src/mech/dimension-drawing.md)
 - [Workshop Description](doc/workshops/build/workshop-description+agenda_de.md)
 - [Step-by-Step-Guide](doc/workshops/build/step-by-step_build-guideline.md)
 
