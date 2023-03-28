@@ -63,5 +63,14 @@ Mit einem Forstnerbohrer werden mittig in den Verbindungen Löcher für die Holz
 ### Schraubenlöcher vorbohren
 An den Balken, die später an das Holz gebohrt werden, werden die Löcher für die Schrauben vorgebohrt.
 
+### Rundstäbe sägen
+Die Rundstäbe werden auf die Balkenstärke zugesägt.
+
+### Gestell bauen
+Die Balken werden ineinander gesteckt und in die Verbindungen werden die Rundstäbe eingesetzt. 
+
+### Zusammenbau
+Das fertige Gestell wird mit dem verleimten Holz ausgerichtet und über die Schrauben verbunden. 
+
 
 
