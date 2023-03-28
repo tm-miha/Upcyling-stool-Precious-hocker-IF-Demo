@@ -2,6 +2,8 @@
 
 Die Dimensionen des Hockers lassen sich je nach Material und Stärke variieren.
 
+![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg){width=500px}
+
 ## Vermaßung Objekt
 
 - Tiefe: 450 mm
@@ -33,6 +35,3 @@ SKIZZE
 
 Durchmesser:22 mm
 6x Rundstab Länge: 52 mm
-
-
-![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg){width=500px}
