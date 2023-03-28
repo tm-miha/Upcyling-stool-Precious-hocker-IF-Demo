@@ -24,11 +24,11 @@ SKIZZE
 
 ## Zuschnitte Plasktikbalken 
 
-SKIZZE
+SKIZZE (inkl. Maße Schlitz-Zapfen-Verbindung?)
 
-- 3x Balken 1: 52x52x??? mm
-- 3x Balken 2: 52x52x??? mm
-- 3x Balken 3: 52x52x??? mm
+- 2x Balken 1: 52x52x??? mm
+- 2x Balken 2: 52x52x??? mm
+- 2x Balken 3: 52x52x??? mm
 - Forstnerbohrer: 22 mm Durchmesser
 
 ## Zuschnitte Rundstäbe
