@@ -11,29 +11,30 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 ## Übersicht:
 
 ### 1. Holzverarbeitung
-- Zuschnitt / Gehrung
-- Lamello
-- Innenseite schleifen
-- Verleimen
-- Verputzen/ Kanten brechen 
-- Außenseite schleifen
-- Ölen
+- [Bohlen Zuschnitt / Gehrung](#bohlen-zuschnitt-gehrung)
+- [Lamello](#lamello)
+- [Innenseite schleifen](#innenseite-schleifen)
+- [Verleimen](#verleimen)
+- [Verputzen/ Kanten brechen](#verputzen-kanten-brechen)
+- [Außenseite schleifen](#außenseite-schleifen)
+- [Ölen](#ölen)
 
 ### 2. Plastikverarbeitung
-- Zuschnitt
-- Verbindungen Sägen 
-- Verbindungen Bohren
-- Schraubenlöcher vorbohren
-- Rundstäbe sägen
-- Gestell bauen
+- [Balken Zuschnitt](#balken-zuschnitt)
+- [Verbindungen Sägen](#verbindung-sägen)
+- [Verbindungen Bohren](#verbindungen-bohren)
+- [Schraubenlöcher vorbohren](#schraublöcher-vorbohren)
+- [Rundstäbe sägen](#rundstäbe-sägen)
+- [Gestell bauen](#gestell-bauen)
 
 ### 3. Zusammenbau
+- [Montage](#montage)
 
 <br/>
 
 ## Arbeitssschritte:
 
-### Holz Zuschnitt / Gehrung
+### Bohlen Zuschnitt / Gehrung
 Die Metallenden werden von den Gerüstbohlen abgeschnitten. Danach werden die Bohlen auf Maß geschnitten und an der Stoßkante mit einer 45° Gehrung versehen.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_02-gehrung.jpg){width=500px} 
@@ -71,7 +72,7 @@ Nach dem Schleifen wird das Holz von allen Seiten mit Hartwachs Öl, Pinsel und 
 ![pic](res/assets/media/img/regenholz_precious-hocker_10-oelen.jpg){width=500px}
 ![pic](res/assets/media/img/regenholz_precious-hocker_11-oelen.jpg){width=500px}
 
-### Plastik Zuschnitt
+### Balken Zuschnitt
 Die Plastikbalken werden auf Maß geschnitten.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_12-zuschnitt-plastikbalken.jpg){width=500px}
@@ -98,11 +99,23 @@ An den Balken, die später an das Holz gebohrt werden, werden die Löcher für d
 ### Rundstäbe sägen
 Die Rundstäbe werden auf die Balkenstärke zugesägt.
 
-### Gestell bauen
-Die Balken werden ineinander gesteckt und in die Verbindungen werden die Rundstäbe eingesetzt. 
+![pic](res/assets/media/img/regenholz_precious-hocker_18-rundstaebe-saegen.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_19-rundstaebe-saegen.jpg){width=500px}
 
-### Zusammenbau
+### Gestell bauen
+Die Balken werden ineinander gesteckt und in die Verbindungen werden die Rundstäbe eingesetzt.
+
+![pic](res/assets/media/img/regenholz_precious-hocker_20-gestell-bauen.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_21-gestell-bauen.jpg){width=500px}
+
+### Montage
 Das fertige Gestell wird mit dem verleimten Holz ausgerichtet und über die Schrauben verbunden. 
+
+![pic](res/assets/media/img/regenholz_precious-hocker_22-zusammenbau.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_23-zusammenbau.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_24-zusammenbau.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_25-zusammenbau.jpg){width=500px}
+
 
 
 
