@@ -8,7 +8,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg){width=500px} 
 
-## Übersicht:
+## Arbeitsschritte Übersicht:
 
 ### 1. Holzverarbeitung
 - [Bohlen Zuschnitt / Gehrung](#bohlen-zuschnitt-gehrung)
