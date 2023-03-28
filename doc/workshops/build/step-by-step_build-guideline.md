@@ -63,20 +63,37 @@ Nachdem der Leim getrocknet ist und die Zwingen gelöst wurden, werden die Kante
 ### Außenseite schleifen
 Darauf werden alle weiteren Holzflächen mit 180er Schleifpapier gleichmäßig geschliffen.
 
+![pic](res/assets/media/img/regenholz_precious-hocker_09-aussenseite-schleifen.jpg){width=500px}
+
 ### Ölen
 Nach dem Schleifen wird das Holz von allen Seiten mit Hartwachs Öl, Pinsel und einem Tuch behandelt und zum Trocknen mindestens 12 Stunden gut belüftet liegen gelassen.
+
+![pic](res/assets/media/img/regenholz_precious-hocker_10-oelen.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_11-oelen.jpg){width=500px}
 
 ### Plastik Zuschnitt
 Die Plastikbalken werden auf Maß geschnitten.
 
+![pic](res/assets/media/img/regenholz_precious-hocker_12-zuschnitt-plastikbalken.jpg){width=500px}
+
 ### Verbindungen Sägen
 Verbindungen werden auf die Balken angezeichnet. Säge wird auf Balkenhöhe eingestellt. Breitenanschlag auf ⅓ der Balkenstärke. (Rissseite beachten!) Schlitz und Zapfen Verbindungen werden gesägt.
+
+![pic](res/assets/media/img/regenholz_precious-hocker_13-verbindungen-saegen.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_14-verbindungen-saegen.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_15-verbindungen-saegen.jpg){width=500px}
 
 ### Verbindungen Bohren
 Mit einem Forstnerbohrer werden mittig in den Verbindungen Löcher für die Holzrundstäbe gebohrt.
 
+![pic](res/assets/media/img/regenholz_precious-hocker_14-verbindungen-bohren.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_15-verbindungen-bohren.jpg){width=500px}
+
 ### Schraubenlöcher vorbohren
 An den Balken, die später an das Holz gebohrt werden, werden die Löcher für die Schrauben vorgebohrt.
+
+![pic](res/assets/media/img/regenholz_precious-hocker_16-schraubloecher-vorbohren.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_17-schraubloecher-vorbohren.jpg){width=500px}
 
 ### Rundstäbe sägen
 Die Rundstäbe werden auf die Balkenstärke zugesägt.
