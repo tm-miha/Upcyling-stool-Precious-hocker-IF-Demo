@@ -46,7 +46,7 @@ Die Bohlen werden ausgerichtet und angezeichnet. Mit dem Lamellofräser werden a
 ### Innenseite schleifen
 Bevor die Bohlen verleimt werden, schleifen wir die Innenseite, da es im Nachhinein schwieriger ist im Winkel zu schleifen.
 
-![pic](regenholz_precious-hocker_04-innenseite-schleifen.jpg){width=500px} 
+![pic](res/assets/media/img/regenholz_precious-hocker_04-innenseite-schleifen.jpg){width=500px} 
 
 ### Verleimen
 Der Leim wird an den Gehrungsschnitt mit den Lamellos aufgetragen. Zügig wird dann Klebeband positioniert und fest gezogen, damit die Bohlen bestmöglich aneinander haften. Überflüssiger Leim wird mit einem feuchten Tuch weggewischt.
