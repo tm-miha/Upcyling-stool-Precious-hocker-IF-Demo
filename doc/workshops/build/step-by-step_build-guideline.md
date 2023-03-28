@@ -81,8 +81,6 @@ Die Plastikbalken werden auf Maß geschnitten.
 Verbindungen werden auf die Balken angezeichnet. Säge wird auf Balkenhöhe eingestellt. Breitenanschlag auf ⅓ der Balkenstärke. (Rissseite beachten!) Schlitz und Zapfen Verbindungen werden gesägt.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_13-verbindungen-saegen.jpg){width=500px}
-![pic](res/assets/media/img/regenholz_precious-hocker_14-verbindungen-saegen.jpg){width=500px}
-![pic](res/assets/media/img/regenholz_precious-hocker_15-verbindungen-saegen.jpg){width=500px}
 
 ### Verbindungen Bohren
 Mit einem Forstnerbohrer werden mittig in den Verbindungen Löcher für die Holzrundstäbe gebohrt.
