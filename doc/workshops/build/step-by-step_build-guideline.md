@@ -23,7 +23,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [Balken Zuschnitt](#balken-zuschnitt)
 - [Verbindungen Sägen](#verbindung-sägen)
 - [Verbindungen Bohren](#verbindungen-bohren)
-- [Schraubenlöcher vorbohren](#schraublöcher-vorbohren)
+- [Schraubenlöcher vorbohren](#schraubenlöcher-vorbohren)
 - [Rundstäbe sägen](#rundstäbe-sägen)
 - [Gestell bauen](#gestell-bauen)
 
