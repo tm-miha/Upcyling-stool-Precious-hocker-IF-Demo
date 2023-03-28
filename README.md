@@ -15,8 +15,7 @@ The "Precious Hocker" is an upcycling product used as a sitting stool or as a pi
 **Object:**
 
 - Dimensions approx. 550x350x450 mm
-- Weight approx. ??? kg
-- 
+- Weight approx. ?? kg
 
 ## Key Ressources
 
