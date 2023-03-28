@@ -6,6 +6,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Build Process - Step by Step Guide
 
+![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg){width=500px} 
+
 ## Übersicht:
 
 ### 1. Holzverarbeitung
@@ -34,17 +36,29 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 ### Holz Zuschnitt / Gehrung
 Die Metallenden werden von den Gerüstbohlen abgeschnitten. Danach werden die Bohlen auf Maß geschnitten und an der Stoßkante mit einer 45° Gehrung versehen.
 
+![pic](res/assets/media/img/regenholz_precious-hocker_02-gehrung.jpg){width=500px} 
+
 ### Lamello
 Die Bohlen werden ausgerichtet und angezeichnet. Mit dem Lamellofräser werden am Gehrungsschnitt Nuten für die Lamellos gefräst. Diese dienen beim Verleimen dazu, dass die zwei Bohlen in Position bleiben und beim festzwingen nicht verrutschen.
 
+![pic](res/assets/media/img/regenholz_precious-hocker_03-lamello.jpg){width=500px} 
+
 ### Innenseite schleifen
-Bevor die Bohlen verleimt werden, schleifen wir die Innenseite, da es im Nachhinein schwieriger ist im Winkel zu schleifen. 
+Bevor die Bohlen verleimt werden, schleifen wir die Innenseite, da es im Nachhinein schwieriger ist im Winkel zu schleifen.
+
+![pic](regenholz_precious-hocker_04-innenseite-schleifen.jpg){width=500px} 
 
 ### Verleimen
 Der Leim wird an den Gehrungsschnitt mit den Lamellos aufgetragen. Zügig wird dann Klebeband positioniert und fest gezogen, damit die Bohlen bestmöglich aneinander haften. Überflüssiger Leim wird mit einem feuchten Tuch weggewischt.
 
+![pic](res/assets/media/img/regenholz_precious-hocker_05-verleimen.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_06-verleimen.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_07-verleimen.jpg){width=500px}
+
 ### Verputzen/ Kanten brechen 
 Nachdem der Leim getrocknet ist und die Zwingen gelöst wurden, werden die Kanten der Bohle gebrochen und Überstände ausgebessert. Das bedeutet, dass die Kanten rundherum bündig geschliffen werden.
+
+![pic](res/assets/media/img/regenholz_precious-hocker_08-kantenbrechen.jpg){width=500px}
 
 ### Außenseite schleifen
 Darauf werden alle weiteren Holzflächen mit 180er Schleifpapier gleichmäßig geschliffen.
