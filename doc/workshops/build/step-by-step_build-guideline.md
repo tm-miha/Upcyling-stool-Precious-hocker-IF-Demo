@@ -6,7 +6,9 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 # Build Process - Step by Step Guide
 
-## 1. Holzverarbeitung
+## Übersicht:
+
+### 1. Holzverarbeitung
 - Zuschnitt / Gehrung
 - Lamello
 - Innenseite schleifen
@@ -15,7 +17,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - Außenseite schleifen
 - Ölen
 
-## 2. Plastikverarbeitung
+### 2. Plastikverarbeitung
 - Zuschnitt
 - Verbindungen Sägen 
 - Verbindungen Bohren
@@ -23,9 +25,10 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - Rundstäbe sägen
 - Gestell bauen
 
-## 3. Zusammenbau
+### 3. Zusammenbau
 
 
+## Arbeitssschritte:
 
 ### Zuschnitt / Gehrung
 Die Metallenden werden von den Gerüstbohlen abgeschnitten. Danach werden die Bohlen auf Maß geschnitten und an der Stoßkante mit einer 45° Gehrung versehen.
