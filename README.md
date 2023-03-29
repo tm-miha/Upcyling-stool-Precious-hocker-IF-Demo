@@ -30,4 +30,4 @@ Hardware design, CAD and PCB files, BOM, settings and other technical or design 
 - CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-W](/LICENSES/LICENSE_CERN_OHL_W_V2.txt)**
 
 Assembly manual, pictures, videos, presentations, description text and other type of media are released under the following license:
-- Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](/LICENSES/LICENSE_CC_BY_SA_4.0.txt)**
+- Creative-Commons-Attribution-NonCommercial-ShareAlike 4.0 International - **[CC-BY-NC-SA 4.0](/LICENSES/CC-BY-NC-SA-4.0.txt)**
