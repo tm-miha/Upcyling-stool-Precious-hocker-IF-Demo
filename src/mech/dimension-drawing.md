@@ -10,7 +10,7 @@ Die Dimensionen des Hockers lassen sich je nach Material und Stärke variieren.
 - Breite: 350 mm
 - Höhe: 550 mm
 
-![pic](res/assets/media/img/regenholz_precious-hocker_dimensions-01.jpg){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_dimensions.jpg){width=500px}
 
 
 
