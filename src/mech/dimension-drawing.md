@@ -13,22 +13,18 @@ Die Dimensionen des Hockers lassen sich je nach Material und Stärke variieren.
 ![pic](res/assets/media/img/regenholz_precious-hocker_dimensions-01.jpg){width=500px}
 
 
-
 ## Zuschnitte Holzbohlen 
 
-SKIZZE
-
 - Materialstärke: 45 mm
-- 1x Platte 1: ???x??? mm
-- 1x Platte 2: ???x??? mm
+- Bohlenbreite: 250 mm
+- 1x Platte 1: 450 mm außenmaß auf 45°
+- 1x Platte 2: 550 mm außenmaß auf 45°
 
 ## Zuschnitte Plasktikbalken 
 
-SKIZZE (inkl. Maße Schlitz-Zapfen-Verbindung?)
-
-- 2x Balken 1: 52x52x??? mm
-- 2x Balken 2: 52x52x??? mm
-- 2x Balken 3: 52x52x??? mm
+- 2x Balken 1: 52x52x350 mm
+- 2x Balken 2: 52x52x405 mm
+- 2x Balken 3: 52x52x505 mm
 - Forstnerbohrer: 22 mm Durchmesser
 
 ## Zuschnitte Rundstäbe
