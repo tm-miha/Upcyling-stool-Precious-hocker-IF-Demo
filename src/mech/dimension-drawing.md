@@ -17,18 +17,19 @@ Die Dimensionen des Hockers lassen sich je nach Material und Stärke variieren.
 
 - Materialstärke: 45 mm
 - Bohlenbreite: 250 mm
-- 1x Länge Platte 1: 450 mm außenmaß auf 45°
-- 1x Länge Platte 2: 550 mm außenmaß auf 45°
+- 1x Platte 1, Länge: 450 mm außenmaß auf 45°
+- 1x Platte 2, Länge: 550 mm außenmaß auf 45°
 
 ## Zuschnitte Plasktikbalken 
 
 - Materialstärke: 52x52 mm
-- 2x Länge Balken 1: 350 mm
-- 2x Länge Balken 2: 405 mm
-- 2x Länge Balken 3: 505 mm
-- Forstnerbohrer: 22 mm Durchmesser
+- 2x Balken 1, Länge: 350 mm
+- 2x Balken 2, Länge: 405 mm
+- 2x Balken 3, Länge: 505 mm
+
+- 6x Löcher für Rundstäbe: Forstnerbohrer 22 mm Durchmesser
 
 ## Zuschnitte Rundstäbe
 
 Durchmesser:22 mm
-6x Rundstab Länge: 52 mm
+6x Rundstab, Länge: 52 mm
