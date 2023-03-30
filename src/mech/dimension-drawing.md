@@ -16,9 +16,9 @@ Die Dimensionen des Hockers lassen sich je nach Material und Stärke variieren.
 ## Zuschnitte Holzbohlen 
 
 - Materialstärke: 45 mm
-- Bohlenbreite: 250 mm
-- 1x Platte 1, Länge: 450 mm außenmaß auf 45°
-- 1x Platte 2, Länge: 550 mm außenmaß auf 45°
+- Bohlenbreite: 350 mm
+- 1x Platte 1, Länge: 450 mm Außenmaß auf 45°
+- 1x Platte 2, Länge: 550 mm Außenmaß auf 45°
 
 ## Zuschnitte Plasktikbalken 
 
