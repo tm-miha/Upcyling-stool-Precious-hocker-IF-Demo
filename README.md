@@ -14,7 +14,7 @@ The "Precious Hocker" project was developed during the [Building workshops](http
 
 The "Precious Hocker" is an upcycling product used as a sitting stool or as a piece of furniture for storage in the living room (laptop, tablet, magazines, drinks, snacks, plants, etc.). The wood comes from discarded spruce planks from scaffolding construction, the plastic frame is cast from plastic waste (shredded plastic lids).
 
-![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg){width=500px} ![](res/assets/media/img/regenholz_precious-hocker_rotation_800x800.gif){width=500px}
+![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg)![](res/assets/media/img/regenholz_precious-hocker_rotation_800x800.gif){width=500px}
 
 **Object:**
 

@@ -6,7 +6,7 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 # Build Process - Step by Step Guide
 
-![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg){width=500px} 
+![pic](/res/assets/media/img/regenholz_precious-hocker_components.jpg)
 
 ## Work steps overview:
 
