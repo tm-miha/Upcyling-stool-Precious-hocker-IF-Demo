@@ -6,7 +6,11 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 # Upcycling stool and side table furniture "Precious Hocker"
 
-## Precious Hocker - Hardware Description
+## General info and a bit of context
+
+The "Precious Hocker" project was developed during the [Building workshops](https://www.interfacerproject.eu/news/buildworkshops/) of the [Interfacer Project](https://www.interfacerproject.eu/) by [regenholz](https://regenholz.de) and was cloned for demo purposes from the [gitlab.fabcity.hamburg](https://gitlab.fabcity.hamburg/hardware/interfacer-osh-build-workshops/upcycling-moebelbau-holz-preciousplastic ) account.
+
+## Hardware Description
 
 The "Precious Hocker" is an upcycling product used as a sitting stool or as a piece of furniture for storage in the living room (laptop, tablet, magazines, drinks, snacks, plants, etc.). The wood comes from discarded spruce planks from scaffolding construction, the plastic frame is cast from plastic waste (shredded plastic lids).
 

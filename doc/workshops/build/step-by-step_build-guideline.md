@@ -8,106 +8,109 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_components.jpg){width=500px} 
 
-## Arbeitsschritte Übersicht:
+## Work steps overview:
 
-### 1. Holzverarbeitung
-- [Bohlen Zuschnitt / Gehrung](#bohlen-zuschnitt-gehrung)
+### 1. Wood processing
+- [Planks cut / mitred](#planks-cut-mitred)
 - [Lamello](#lamello)
-- [Innenseite schleifen](#innenseite-schleifen)
-- [Verleimen](#verleimen)
-- [Verputzen/ Kanten brechen](#verputzen-kanten-brechen)
-- [Außenseite schleifen](#außenseite-schleifen)
-- [Ölen](#ölen)
+- [Grinding inside](#innenseite-schleifen)
+- [Glueing](#verleimen)
+- [Plastering break edges](#verputzen-kanten-brechen)
+- [Grinding the outside](#außenseite-schleifen)
+- [Oiling](#ölen)
 
-### 2. Plastikverarbeitung
-- [Balken Zuschnitt](#balken-zuschnitt)
-- [Verbindungen Sägen](#verbindung-sägen)
-- [Verbindungen Bohren](#verbindungen-bohren)
-- [Schraubenlöcher vorbohren](#schraubenlöcher-vorbohren)
-- [Rundstäbe sägen](#rundstäbe-sägen)
-- [Gestell bauen](#gestell-bauen)
+### 2. Plastic processing
 
-### 3. Zusammenbau
+- [Beam cutting](#balken-zuschnitt)
+- [Connections saws](#verbindung-sägen)
+- [Drill connections](#verbindungen-bohren)
+- [Pre-drill screw holes](#schraubenlöcher-vorbohren)
+- [Sawing round bars](#rundstäbe-sägen)
+- [Build rack](#gestell-bauen)
+
+### 3. Assembly
 - [Montage](#montage)
 
 <br/>
 
-## Arbeitssschritte:
+## 1. Wood processing:
 
-### Bohlen Zuschnitt / Gehrung
-Die Metallenden werden von den Gerüstbohlen abgeschnitten. Danach werden die Bohlen auf Maß geschnitten und an der Stoßkante mit einer 45° Gehrung versehen.
+### Planks cut / mitred
+The metal ends are cut off the scaffolding planks. The planks are then cut to size and provided with a 45° miter on the abutting edge.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_02-gehrung.jpg){width=500px} 
 
 ### Lamello
-Die Bohlen werden ausgerichtet und angezeichnet. Mit dem Lamellofräser werden am Gehrungsschnitt Nuten für die Lamellos gefräst. Diese dienen beim Verleimen dazu, dass die zwei Bohlen in Position bleiben und beim festzwingen nicht verrutschen.
+The planks are aligned and marked. Grooves for the lamellas are milled on the miter cut with the lamella milling cutter. When gluing, these are used to ensure that the two planks remain in position and do not slip when they are clamped.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_03-lamello.jpg){width=500px} 
 
-### Innenseite schleifen
-Bevor die Bohlen verleimt werden, schleifen wir die Innenseite, da es im Nachhinein schwieriger ist im Winkel zu schleifen.
+### Grinding inside
+Before the planks are glued, we close the inside, as it is more difficult to grind at an angle afterwards.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_04-innenseite-schleifen.jpg){width=500px} 
 
-### Verleimen
-Der Leim wird an den Gehrungsschnitt mit den Lamellos aufgetragen. Zügig wird dann Klebeband positioniert und fest gezogen, damit die Bohlen bestmöglich aneinander haften. Überflüssiger Leim wird mit einem feuchten Tuch weggewischt.
+### Glueing
+The glue is applied to the miter cut with the Lamellos. Adhesive tape is then quickly positioned and pulled tight so that the planks stick together as best as possible. Excess glue is wiped away with a damp cloth.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_05-verleimen.jpg){width=500px}
 ![pic](res/assets/media/img/regenholz_precious-hocker_06-verleimen.jpg){width=500px}
 ![pic](res/assets/media/img/regenholz_precious-hocker_07-verleimen.jpg){width=500px}
 
-### Verputzen/ Kanten brechen 
-Nachdem der Leim getrocknet ist und die Zwingen gelöst wurden, werden die Kanten der Bohle gebrochen und Überstände ausgebessert. Das bedeutet, dass die Kanten rundherum bündig geschliffen werden.
+### Plastering break edges 
+After the glue has dried and the clamps have been loosened, the edges of the plank are broken off and any excess is repaired. This means that the edges are sanded flush all around.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_08-kantenbrechen.jpg){width=500px}
 
-### Außenseite schleifen
-Darauf werden alle weiteren Holzflächen mit 180er Schleifpapier gleichmäßig geschliffen.
+### Grinding the outside
+Then all other wooden surfaces are sanded evenly with 180 grit sandpaper.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_09-aussenseite-schleifen.jpg){width=500px}
 
-### Ölen
-Nach dem Schleifen wird das Holz von allen Seiten mit Hartwachs Öl, Pinsel und einem Tuch behandelt und zum Trocknen mindestens 12 Stunden gut belüftet liegen gelassen.
+### Oiling
+After sanding, the wood is treated on all sides with hard wax oil, a brush and a cloth and left to dry for at least 12 hours with good ventilation.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_10-oelen.jpg){width=500px}
 ![pic](res/assets/media/img/regenholz_precious-hocker_11-oelen.jpg){width=500px}
 
-### Balken Zuschnitt
-Die Plastikbalken werden auf Maß geschnitten.
+## 2. Plastic processing
+
+### Beam cutting
+The plastic beams are cut to size.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_12-zuschnitt-plastikbalken.jpg){width=500px}
 
-### Verbindungen Sägen
-Verbindungen werden auf die Balken angezeichnet. Säge wird auf Balkenhöhe eingestellt. Breitenanschlag auf ⅓ der Balkenstärke. (Rissseite beachten!) Schlitz und Zapfen Verbindungen werden gesägt.
+### Connections saws
+Connections are marked on the bars. Saw is adjusted to beam height. Width stop to ⅓ of the beam thickness. (Note the tear side!) Slot and tenon connections are sawn.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_13-verbindungen-saegen.jpg){width=500px}
 
-### Verbindungen Bohren
-Mit einem Forstnerbohrer werden mittig in den Verbindungen Löcher für die Holzrundstäbe gebohrt.
+### Drill connections
+Holes for the round wooden rods are drilled in the center of the connections with a Forstner bit.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_14-verbindungen-bohren.jpg){width=500px}
 ![pic](res/assets/media/img/regenholz_precious-hocker_15-verbindungen-bohren.jpg){width=500px}
 
-### Schraubenlöcher vorbohren
-An den Balken, die später an das Holz gebohrt werden, werden die Löcher für die Schrauben vorgebohrt.
+### Pre-drill screw holes
+The holes for the screws are pre-drilled on the beams that will later be drilled onto the wood.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_16-schraubloecher-vorbohren.jpg){width=500px}
 ![pic](res/assets/media/img/regenholz_precious-hocker_17-schraubloecher-vorbohren.jpg){width=500px}
 
-### Rundstäbe sägen
-Die Rundstäbe werden auf die Balkenstärke zugesägt.
+### Sawing round bars
+The round bars are sawn to the beam thickness.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_18-rundstaebe-saegen.jpg){width=500px}
 ![pic](res/assets/media/img/regenholz_precious-hocker_19-rundstaebe-saegen.jpg){width=500px}
 
-### Gestell bauen
-Die Balken werden ineinander gesteckt und in die Verbindungen werden die Rundstäbe eingesetzt.
+### Build rack
+The beams are plugged into each other and the round rods are inserted into the connections.
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_20-gestell-bauen.jpg){width=500px}
 ![pic](res/assets/media/img/regenholz_precious-hocker_21-gestell-bauen.jpg){width=500px}
 
-### Montage
-Das fertige Gestell wird mit dem verleimten Holz ausgerichtet und über die Schrauben verbunden. 
+## 3. Montage
+The finished frame is aligned with the glued wood and connected with the screws. 
 
 ![pic](res/assets/media/img/regenholz_precious-hocker_22-zusammenbau.jpg){width=500px}
 ![pic](res/assets/media/img/regenholz_precious-hocker_23-zusammenbau.jpg){width=500px}
